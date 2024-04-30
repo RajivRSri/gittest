@@ -1,2 +1,2 @@
-var = 10
+var = 100000
 print(var)
