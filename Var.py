@@ -1,2 +1,2 @@
-var = 101111
+var = 100111
 print(var)
